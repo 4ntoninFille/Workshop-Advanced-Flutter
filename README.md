@@ -18,7 +18,10 @@ lien intéressant sur l'[Oauth Reddit](https://github.com/reddit-archive/reddit/
 
 Pour simplifier le workshop, nous allons utiliser un wrapper nommé [DRAW](https://pub.dev/packages/draw#-installing-tab-), (Dart Reddit Api Wrapper).
 
-
  __étapes 3__:
+ 
+ Pour afficher l'auth : [ici](https://pub.dev/packages/flutter_web_auth)
+
+ __étapes 4__:
 
 Afficher les informations basic du profile connecté
