@@ -25,3 +25,14 @@ Pour simplifier le workshop, nous allons utiliser un wrapper nommé [DRAW](https
  __étapes 4__:
 
 Afficher les informations basic du profile connecté
+
+# Application front
+
+Cette partie du workshop auras pour objectif la création d'un tableau, une liste scrolable.
+Pour commencer nous allons faire une simple liste et par la suite faire de cette liste un scroll infini.
+
+__étapes 1__:
+
+regarder les infos sur les widgets suivant
+ - `LayoutBuilder`
+ - `ListView`
